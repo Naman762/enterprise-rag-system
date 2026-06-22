@@ -2,6 +2,8 @@
 
 A Retrieval-Augmented Generation (RAG) application built with Python, FastAPI, LlamaIndex, Qdrant, and Streamlit.
 
+link : https://enterprise-rag-system-5mlance6rxp9ejkskoyvxd.streamlit.app/
+
 ## Features
 
 - PDF document ingestion
